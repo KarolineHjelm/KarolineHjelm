@@ -1,5 +1,5 @@
 # Karoline her!
-<a href="https://www.linkedin.com/in/karoline-hjelmeland/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/karoline-hjelmeland-57b5761a5/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 ## Ferdigheter
 
