@@ -1,16 +1,20 @@
-## Hi there 👋
+# Karoline her!
+<a href="https://www.linkedin.com/in/karoline-hjelmeland/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**KarolineHjelm/KarolineHjelm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Ferdigheter
 
-Here are some ideas to get you started:
+| Ferdigheter                                   | Prosjekter                 |
+|-----------------------------------------------|----------------------------|
+|                                               |                            |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Sertifiseringer og kurs
+<div>
+<a href="Achivements.pdf" target="_blank">
+  <img src="67257c3f-4b09-4239-b8fd-b64f37808b21.png" alt="Advanced Windows Security 2022" width="150"/>
+</a>
+</div>
+
+## Prosjekter
+- SOC Automation Project
+- Security as code Project
