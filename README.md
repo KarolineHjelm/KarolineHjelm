@@ -1,20 +1,29 @@
 # Karoline her!
 <a href="https://www.linkedin.com/in/karoline-hjelmeland-57b5761a5/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-## Ferdigheter
-
-| Ferdigheter                                   | Prosjekter                 |
-|-----------------------------------------------|----------------------------|
-|                                               |                            |
-
-
-## Sertifiseringer og kurs
-<div>
-<a href="Achivements.pdf" target="_blank">
-  <img src="67257c3f-4b09-4239-b8fd-b64f37808b21.png" alt="Advanced Windows Security 2022" width="150"/>
-</a>
-</div>
-
 ## Prosjekter
-- SOC Automation Project
-- Security as code Project
+
+| Prosjekter                                  |                            |
+|---------------------------------------------|----------------------------|
+|                                             |                            |
+
+
+# 🎓 Sertifiseringer og Kurs
+
+Oversikt over mine sertifiseringer og kurs relatert til cybersikkerhet, digital etterforskning og teknologi.  
+Bilder av sertifikater ligger i mappen [`images/`](./images).
+
+---
+
+| 📚 Tittel | 🔗 Kurs | 📄 Sertifisering     |
+|-----------|--------------|------------------------|
+| **Microsoft Security Operations Analyst (SC-200)** | [Lenke](https://learn.microsoft.com/en-us/training/courses/sc-200t00) | – |
+| **Advanced Windows Security Course 2022 (CQURE Academy)** | [Lenke](https://cqureacademy.com/cyber-security-training/advanced-windows-security-course-for-2022/) | [Achievements PDF](achivements.pdf) |
+| **Hacker Techniques, Exploits, and Incident Handling (SEC504)** | [Lenke](https://www.sans.org/cyber-security-courses/hacker-techniques-incident-handling) | – |
+| **Cloud Security Threat Detection (SEC541)** | [Lenke](https://www.sans.org/cyber-security-courses/cloud-security-threat-detection) | – |
+
+
+---
+
+
+
